@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/10uHC4cUatiM9VTRWiIk_-V53gbRkRQ3_
+  /:
+    url: https://content.da.live/rafwinterpacht/eds-docs/
+    type: markup
